@@ -1,0 +1,15 @@
+/* This property change the color of h1*/
+h1{
+    color: brown;
+
+}
+/* this property change the background color of h1*/
+h1{
+    background-color: lightblue;
+}
+/* this property chnage the font-family of h1*/
+
+h1{
+    font-family: Georgia, 
+    'Times New Roman', Times, serif;
+} 
